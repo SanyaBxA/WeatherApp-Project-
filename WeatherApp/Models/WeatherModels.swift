@@ -6,8 +6,7 @@
 //
 // WeatherModels.swift
 
-
-//LATEST
+//checking
 
 import Foundation
 
